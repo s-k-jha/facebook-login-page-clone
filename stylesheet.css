@@ -1,0 +1,42 @@
+h1{
+    font-family: inherit;
+    color: #0d67fa;
+    text-align: center;
+    font-size: 50px;
+   
+}
+.login-heading{
+ font-family: inherit;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    text-transform:capitalize;
+}
+.container{
+    padding: 25px;
+    text-align: center;
+    /* border-style: solid ; */
+    background: #fff;
+    border-style:outset; 
+    border-radius: 10px;
+    margin-right: 400px;
+    margin-left: 400px;
+    
+   
+}
+button{
+    
+   background:#0d67fa;
+   color: white;
+   width: 180px;
+   height: 40px;
+}
+body{
+    background: #f0f2f5;
+  
+}
+a{
+    padding: 2px;
+    text-decoration: none;
+    color:#0d67fa
+}
